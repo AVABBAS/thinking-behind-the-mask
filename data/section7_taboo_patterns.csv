@@ -1,0 +1,121 @@
+round,frame,model,taboo,intensity
+1,Narrative,Claude-4.6-Sonnet,Direct Blame,0.0
+1,Narrative,GPT-5.4,Direct Blame,0.005
+1,Narrative,Gemini-3.1-Pro,Direct Blame,0.0
+1,Narrative,Claude-4.6-Sonnet,Finality,0.0
+1,Narrative,GPT-5.4,Finality,0.0
+1,Narrative,Gemini-3.1-Pro,Finality,0.0
+1,Narrative,Claude-4.6-Sonnet,Inferiority,0.0
+1,Narrative,GPT-5.4,Inferiority,0.0
+1,Narrative,Gemini-3.1-Pro,Inferiority,0.0
+1,Narrative,Claude-4.6-Sonnet,Emotional Cost,0.0
+1,Narrative,GPT-5.4,Emotional Cost,0.0
+1,Narrative,Gemini-3.1-Pro,Emotional Cost,0.0
+1,Narrative,Claude-4.6-Sonnet,Mismatch,0.0
+1,Narrative,GPT-5.4,Mismatch,0.0
+1,Narrative,Gemini-3.1-Pro,Mismatch,0.0
+1,Narrative,Claude-4.6-Sonnet,Victim,0.0
+1,Narrative,GPT-5.4,Victim,0.0
+1,Narrative,Gemini-3.1-Pro,Victim,0.0
+1,Narrative,Claude-4.6-Sonnet,Mercenary,0.0
+1,Narrative,GPT-5.4,Mercenary,0.0
+1,Narrative,Gemini-3.1-Pro,Mercenary,0.0
+1,Narrative,Claude-4.6-Sonnet,Platitude,0.0
+1,Narrative,GPT-5.4,Platitude,0.0
+1,Narrative,Gemini-3.1-Pro,Platitude,0.0
+2,Engineering,Claude-4.6-Sonnet,Direct Blame,0.0
+2,Engineering,GPT-5.4,Direct Blame,0.0
+2,Engineering,Gemini-3.1-Pro,Direct Blame,0.0
+2,Engineering,Claude-4.6-Sonnet,Finality,0.0
+2,Engineering,GPT-5.4,Finality,0.0064
+2,Engineering,Gemini-3.1-Pro,Finality,0.0
+2,Engineering,Claude-4.6-Sonnet,Inferiority,0.0
+2,Engineering,GPT-5.4,Inferiority,0.0
+2,Engineering,Gemini-3.1-Pro,Inferiority,0.0
+2,Engineering,Claude-4.6-Sonnet,Emotional Cost,0.0
+2,Engineering,GPT-5.4,Emotional Cost,0.0
+2,Engineering,Gemini-3.1-Pro,Emotional Cost,0.0
+2,Engineering,Claude-4.6-Sonnet,Mismatch,0.0
+2,Engineering,GPT-5.4,Mismatch,0.0
+2,Engineering,Gemini-3.1-Pro,Mismatch,0.0
+2,Engineering,Claude-4.6-Sonnet,Victim,0.0
+2,Engineering,GPT-5.4,Victim,0.0
+2,Engineering,Gemini-3.1-Pro,Victim,0.0
+2,Engineering,Claude-4.6-Sonnet,Mercenary,0.0
+2,Engineering,GPT-5.4,Mercenary,0.0
+2,Engineering,Gemini-3.1-Pro,Mercenary,0.0
+2,Engineering,Claude-4.6-Sonnet,Platitude,0.0
+2,Engineering,GPT-5.4,Platitude,0.0
+2,Engineering,Gemini-3.1-Pro,Platitude,0.0
+3,Coaching,Claude-4.6-Sonnet,Direct Blame,0.0
+3,Coaching,GPT-5.4,Direct Blame,0.0
+3,Coaching,Gemini-3.1-Pro,Direct Blame,0.0
+3,Coaching,Claude-4.6-Sonnet,Finality,0.0
+3,Coaching,GPT-5.4,Finality,0.0
+3,Coaching,Gemini-3.1-Pro,Finality,0.0
+3,Coaching,Claude-4.6-Sonnet,Inferiority,0.0
+3,Coaching,GPT-5.4,Inferiority,0.0
+3,Coaching,Gemini-3.1-Pro,Inferiority,0.0
+3,Coaching,Claude-4.6-Sonnet,Emotional Cost,0.0
+3,Coaching,GPT-5.4,Emotional Cost,0.0
+3,Coaching,Gemini-3.1-Pro,Emotional Cost,0.0
+3,Coaching,Claude-4.6-Sonnet,Mismatch,0.0
+3,Coaching,GPT-5.4,Mismatch,0.0
+3,Coaching,Gemini-3.1-Pro,Mismatch,0.0
+3,Coaching,Claude-4.6-Sonnet,Victim,0.0
+3,Coaching,GPT-5.4,Victim,0.0
+3,Coaching,Gemini-3.1-Pro,Victim,0.0
+3,Coaching,Claude-4.6-Sonnet,Mercenary,0.0
+3,Coaching,GPT-5.4,Mercenary,0.0
+3,Coaching,Gemini-3.1-Pro,Mercenary,0.0
+3,Coaching,Claude-4.6-Sonnet,Platitude,0.0
+3,Coaching,GPT-5.4,Platitude,0.0
+3,Coaching,Gemini-3.1-Pro,Platitude,0.0
+4,Ethnography,Claude-4.6-Sonnet,Direct Blame,0.0035
+4,Ethnography,GPT-5.4,Direct Blame,0.0
+4,Ethnography,Gemini-3.1-Pro,Direct Blame,0.0
+4,Ethnography,Claude-4.6-Sonnet,Finality,0.0027
+4,Ethnography,GPT-5.4,Finality,0.0
+4,Ethnography,Gemini-3.1-Pro,Finality,0.0
+4,Ethnography,Claude-4.6-Sonnet,Inferiority,0.0
+4,Ethnography,GPT-5.4,Inferiority,0.0
+4,Ethnography,Gemini-3.1-Pro,Inferiority,0.0053
+4,Ethnography,Claude-4.6-Sonnet,Emotional Cost,0.0
+4,Ethnography,GPT-5.4,Emotional Cost,0.0
+4,Ethnography,Gemini-3.1-Pro,Emotional Cost,0.0
+4,Ethnography,Claude-4.6-Sonnet,Mismatch,0.0
+4,Ethnography,GPT-5.4,Mismatch,0.0061
+4,Ethnography,Gemini-3.1-Pro,Mismatch,0.0
+4,Ethnography,Claude-4.6-Sonnet,Victim,0.0068
+4,Ethnography,GPT-5.4,Victim,0.0
+4,Ethnography,Gemini-3.1-Pro,Victim,0.0
+4,Ethnography,Claude-4.6-Sonnet,Mercenary,0.0
+4,Ethnography,GPT-5.4,Mercenary,0.0
+4,Ethnography,Gemini-3.1-Pro,Mercenary,0.0
+4,Ethnography,Claude-4.6-Sonnet,Platitude,0.0
+4,Ethnography,GPT-5.4,Platitude,0.0
+4,Ethnography,Gemini-3.1-Pro,Platitude,0.0
+5,Philosophy,Claude-4.6-Sonnet,Direct Blame,0.0
+5,Philosophy,GPT-5.4,Direct Blame,0.0051
+5,Philosophy,Gemini-3.1-Pro,Direct Blame,0.0055
+5,Philosophy,Claude-4.6-Sonnet,Finality,0.0036
+5,Philosophy,GPT-5.4,Finality,0.0044
+5,Philosophy,Gemini-3.1-Pro,Finality,0.0
+5,Philosophy,Claude-4.6-Sonnet,Inferiority,0.0
+5,Philosophy,GPT-5.4,Inferiority,0.0
+5,Philosophy,Gemini-3.1-Pro,Inferiority,0.0
+5,Philosophy,Claude-4.6-Sonnet,Emotional Cost,0.0
+5,Philosophy,GPT-5.4,Emotional Cost,0.0
+5,Philosophy,Gemini-3.1-Pro,Emotional Cost,0.0
+5,Philosophy,Claude-4.6-Sonnet,Mismatch,0.0
+5,Philosophy,GPT-5.4,Mismatch,0.0
+5,Philosophy,Gemini-3.1-Pro,Mismatch,0.0
+5,Philosophy,Claude-4.6-Sonnet,Victim,0.0
+5,Philosophy,GPT-5.4,Victim,0.0
+5,Philosophy,Gemini-3.1-Pro,Victim,0.0
+5,Philosophy,Claude-4.6-Sonnet,Mercenary,0.0
+5,Philosophy,GPT-5.4,Mercenary,0.0
+5,Philosophy,Gemini-3.1-Pro,Mercenary,0.0
+5,Philosophy,Claude-4.6-Sonnet,Platitude,0.0
+5,Philosophy,GPT-5.4,Platitude,0.0
+5,Philosophy,Gemini-3.1-Pro,Platitude,0.0

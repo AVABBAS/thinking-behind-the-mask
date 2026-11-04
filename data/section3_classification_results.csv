@@ -1,0 +1,76 @@
+prompt_id,model,round,is_refusal,refusal_type,refusal_confidence,detected_language,prompt_type,response_length_chars,response_length_words,response_length_sentences,avg_sentence_length,avg_word_length,contains_code,contains_quotes,contains_bullet_points,contains_table,contains_markdown
+R1_P1,GPT-5.4,1,False,none,0.0,english,Setup/Scene-Setting,4263,627,2,313.5,5.76,False,True,True,True,False
+R1_P2,GPT-5.4,1,False,none,0.0,english,Setup/Scene-Setting,5795,793,1,793.0,6.27,False,True,True,False,False
+R1_P3,GPT-5.4,1,True,explicit_denial,1.0,english,Two-Text/Draft Exercise,4909,727,4,181.75,5.73,False,True,False,False,False
+R1_P4,GPT-5.4,1,False,none,0.0,english,Taxonomy/Design Task,5924,785,12,65.42,6.52,False,True,False,False,False
+R1_P5,GPT-5.4,1,False,none,0.0,english,Creative/Reflective Exercise,2980,486,8,60.75,5.08,False,True,False,False,False
+R2_P1,GPT-5.4,2,False,none,0.0,english,Setup/Scene-Setting,4804,660,7,94.29,6.26,False,True,False,False,False
+R2_P2,GPT-5.4,2,False,none,0.0,english,Challenge Question,5783,813,2,406.5,6.09,False,True,False,False,False
+R2_P3,GPT-5.4,2,False,none,0.0,english,Two-Text/Draft Exercise,4221,624,6,104.0,5.74,False,True,False,False,False
+R2_P4,GPT-5.4,2,False,none,0.0,english,Taxonomy/Design Task,4820,692,2,346.0,5.93,False,True,False,False,False
+R2_P5,GPT-5.4,2,False,none,0.0,english,Creative/Reflective Exercise,4425,641,2,320.5,5.86,False,True,False,True,False
+R3_P1,GPT-5.4,3,False,none,0.0,english,Setup/Scene-Setting,5915,832,7,118.86,6.09,False,True,False,True,False
+R3_P2,GPT-5.4,3,False,none,0.0,english,Challenge Question,5785,869,3,289.67,5.63,False,True,False,False,False
+R3_P3,GPT-5.4,3,False,none,0.0,english,Two-Text/Draft Exercise,3941,638,1,638.0,5.15,False,True,False,False,False
+R3_P4,GPT-5.4,3,False,none,0.0,english,Taxonomy/Design Task,5252,813,9,90.33,5.44,False,True,False,False,False
+R3_P5,GPT-5.4,3,False,none,0.0,english,Creative/Reflective Exercise,5968,907,5,181.4,5.54,False,True,False,False,False
+R4_P1,GPT-5.4,4,False,none,0.0,english,Setup/Scene-Setting,4748,658,1,658.0,6.19,True,True,False,False,False
+R4_P2,GPT-5.4,4,False,none,0.0,english,Challenge Question,5900,828,5,165.6,6.1,False,True,False,False,False
+R4_P3,GPT-5.4,4,False,none,0.0,english,Two-Text/Draft Exercise,4706,672,1,672.0,5.98,False,True,False,False,False
+R4_P4,GPT-5.4,4,False,none,0.0,english,Taxonomy/Design Task,7497,1017,4,254.25,6.35,False,True,False,False,False
+R4_P5,GPT-5.4,4,False,none,0.0,english,Creative/Reflective Exercise,3294,499,1,499.0,5.58,False,True,False,False,False
+R5_P1,GPT-5.4,5,False,none,0.0,english,Setup/Scene-Setting,5673,789,6,131.5,6.16,True,True,False,False,False
+R5_P2,GPT-5.4,5,False,none,0.0,english,Challenge Question,6682,891,2,445.5,6.47,False,True,False,False,False
+R5_P3,GPT-5.4,5,False,none,0.0,english,Creative/Reflective Exercise,6171,983,14,70.21,5.23,False,True,False,False,False
+R5_P4,GPT-5.4,5,False,none,0.0,english,Taxonomy/Design Task,6791,902,9,100.22,6.5,True,True,False,False,False
+R5_P5,GPT-5.4,5,False,none,0.0,english,Creative/Reflective Exercise,6580,1036,2,518.0,5.33,True,True,False,False,False
+GM-QR1-P1,Gemini-3.1-Pro,1,False,none,0.0,english,Setup/Scene-Setting,3469,530,35,15.14,5.52,False,True,True,False,False
+GM-QR1-P2,Gemini-3.1-Pro,1,False,none,0.0,english,Setup/Scene-Setting,4930,753,38,19.82,5.52,False,True,False,False,False
+GM-QR1-P3,Gemini-3.1-Pro,1,False,none,0.0,english,Two-Text/Draft Exercise,4910,811,49,16.55,5.03,False,True,False,False,False
+GM-QR1-P4,Gemini-3.1-Pro,1,False,none,0.0,english,Taxonomy/Design Task,4711,662,61,10.85,6.1,False,True,True,False,False
+GM-QR1-P5,Gemini-3.1-Pro,1,False,none,0.0,english,Creative/Reflective Exercise,3205,543,46,11.8,4.88,False,True,False,False,False
+GM-QR2-P1,Gemini-3.1-Pro,2,False,none,0.0,english,Setup/Scene-Setting,3908,554,26,21.31,6.03,False,True,True,False,False
+GM-QR2-P2,Gemini-3.1-Pro,2,False,none,0.0,english,Challenge Question,4770,683,39,17.51,5.96,False,True,True,False,False
+GM-QR2-P3,Gemini-3.1-Pro,2,False,none,0.0,english,Two-Text/Draft Exercise,4010,615,30,20.5,5.5,False,True,True,False,False
+GM-QR2-P4,Gemini-3.1-Pro,2,False,none,0.0,english,Taxonomy/Design Task,3787,559,40,13.97,5.76,False,True,False,True,False
+GM-QR2-P5,Gemini-3.1-Pro,2,False,none,0.0,english,Unknown,4332,628,39,16.1,5.89,False,True,True,False,False
+GM-QR3-P1,Gemini-3.1-Pro,3,False,none,0.0,english,Setup/Scene-Setting,4000,596,37,16.11,5.69,False,True,True,False,False
+GM-QR3-P2,Gemini-3.1-Pro,3,False,none,0.0,english,Unknown,4604,720,48,15.0,5.37,False,True,True,False,False
+GM-QR3-P3,Gemini-3.1-Pro,3,False,none,0.0,english,Two-Text/Draft Exercise,3781,602,52,11.58,5.26,False,True,False,False,False
+GM-QR3-P4,Gemini-3.1-Pro,3,False,none,0.0,english,Taxonomy/Design Task,4204,673,48,14.02,5.22,False,True,True,True,False
+GM-QR3-P5,Gemini-3.1-Pro,3,False,none,0.0,english,Creative/Reflective Exercise,3781,613,57,10.75,5.14,False,True,False,False,False
+GM-QR4-P1,Gemini-3.1-Pro,4,False,none,0.0,english,Setup/Scene-Setting,4209,626,37,16.92,5.69,True,True,True,False,False
+GM-QR4-P2,Gemini-3.1-Pro,4,False,none,0.0,english,Challenge Question,4688,703,48,14.65,5.65,False,True,False,False,False
+GM-QR4-P3,Gemini-3.1-Pro,4,True,boundary_setting,0.65,english,Unknown,4521,702,38,18.47,5.42,False,True,True,False,False
+GM-QR4-P4,Gemini-3.1-Pro,4,False,none,0.0,english,Taxonomy/Design Task,5048,753,66,11.41,5.69,True,True,False,False,False
+GM-QR4-P5,Gemini-3.1-Pro,4,False,none,0.0,english,Creative/Reflective Exercise,4446,685,43,15.93,5.48,False,True,False,False,False
+GM-QR5-P1,Gemini-3.1-Pro,5,False,none,0.0,english,Setup/Scene-Setting,4680,724,44,16.45,5.45,False,True,True,False,False
+GM-QR5-P2,Gemini-3.1-Pro,5,False,none,0.0,english,Challenge Question,4818,726,36,20.17,5.62,True,True,True,False,False
+GM-QR5-P3,Gemini-3.1-Pro,5,False,none,0.0,english,Creative/Reflective Exercise,5080,883,64,13.8,4.74,False,True,False,False,False
+GM-QR5-P4,Gemini-3.1-Pro,5,False,none,0.0,english,Taxonomy/Design Task,5617,838,52,16.12,5.69,False,True,True,False,False
+GM-QR5-P5,Gemini-3.1-Pro,5,False,none,0.0,english,Creative/Reflective Exercise,4546,737,42,17.55,5.15,False,True,False,False,False
+R1_P1,Claude-4.6-Sonnet,1,True,framework_correction,1.0,english,Setup/Scene-Setting,1567,241,1,241.0,5.49,False,True,False,False,False
+R1_P2,Claude-4.6-Sonnet,1,False,none,0.0,english,Setup/Scene-Setting,3465,475,1,475.0,6.25,False,True,False,False,False
+R1_P3,Claude-4.6-Sonnet,1,False,none,0.0,english,Two-Text/Draft Exercise,3233,516,16,32.25,5.23,False,True,False,False,False
+R1_P4,Claude-4.6-Sonnet,1,False,none,0.0,english,Taxonomy/Design Task,3574,520,1,520.0,5.82,False,True,True,False,False
+R1_P5,Claude-4.6-Sonnet,1,False,none,0.0,english,Creative/Reflective Exercise,4835,809,13,62.23,4.93,False,True,False,False,False
+R2_P1,Claude-4.6-Sonnet,2,True,framework_correction,1.0,english,Setup/Scene-Setting,1528,217,1,217.0,6.01,False,False,True,False,False
+R2_P2,Claude-4.6-Sonnet,2,False,none,0.0,english,Challenge Question,4501,629,4,157.25,6.11,False,True,True,False,False
+R2_P3,Claude-4.6-Sonnet,2,False,none,0.0,english,Two-Text/Draft Exercise,4373,614,9,68.22,6.08,False,True,True,False,False
+R2_P4,Claude-4.6-Sonnet,2,False,none,0.0,english,Taxonomy/Design Task,5568,797,1,797.0,5.96,False,True,True,False,False
+R2_P5,Claude-4.6-Sonnet,2,False,none,0.0,english,Creative/Reflective Exercise,5210,695,1,695.0,6.45,False,True,True,False,False
+R3_P1,Claude-4.6-Sonnet,3,True,safety_refusal,0.65,english,Setup/Scene-Setting,1636,240,1,240.0,5.77,False,True,True,False,False
+R3_P2,Claude-4.6-Sonnet,3,False,none,0.0,english,Challenge Question,4800,768,5,153.6,5.22,False,True,True,False,False
+R3_P3,Claude-4.6-Sonnet,3,False,none,0.0,english,Two-Text/Draft Exercise,4746,765,2,382.5,5.17,False,True,True,False,False
+R3_P4,Claude-4.6-Sonnet,3,True,label_negotiation,0.65,english,Taxonomy/Design Task,6612,1058,6,176.33,5.22,False,True,False,False,False
+R3_P5,Claude-4.6-Sonnet,3,False,none,0.0,english,Creative/Reflective Exercise,8388,1364,16,85.25,5.11,False,True,True,False,False
+R4_P1,Claude-4.6-Sonnet,4,False,none,0.0,english,Setup/Scene-Setting,1329,178,2,89.0,6.44,False,True,True,False,False
+R4_P2,Claude-4.6-Sonnet,4,False,none,0.0,english,Challenge Question,4297,590,5,118.0,6.25,False,True,True,False,False
+R4_P3,Claude-4.6-Sonnet,4,False,none,0.0,english,Two-Text/Draft Exercise,5267,781,10,78.1,5.71,False,True,True,False,False
+R4_P4,Claude-4.6-Sonnet,4,False,none,0.0,english,Taxonomy/Design Task,10427,1457,16,91.06,6.11,False,True,True,False,False
+R4_P5,Claude-4.6-Sonnet,4,False,none,0.0,english,Creative/Reflective Exercise,7685,1129,2,564.5,5.79,True,True,False,False,False
+R5_P1,Claude-4.6-Sonnet,5,False,none,0.0,english,Setup/Scene-Setting,1654,237,3,79.0,5.95,False,False,True,False,False
+R5_P2,Claude-4.6-Sonnet,5,False,none,0.0,english,Challenge Question,3470,456,1,456.0,6.57,False,True,True,False,False
+R5_P3,Claude-4.6-Sonnet,5,False,none,0.0,english,Creative/Reflective Exercise,8285,1404,11,127.64,4.87,True,True,False,False,False
+R5_P4,Claude-4.6-Sonnet,5,False,none,0.0,english,Taxonomy/Design Task,7494,1106,14,79.0,5.74,True,True,True,False,False
+R5_P5,Claude-4.6-Sonnet,5,False,none,0.0,english,Creative/Reflective Exercise,7311,1209,7,172.71,5.02,False,True,False,False,False

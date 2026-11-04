@@ -1,0 +1,297 @@
+{
+  "timestamp": "2026-07-28T19:58:40.633701",
+  "n_total_tests": 29,
+  "n_significant": 17,
+  "results": [
+    {
+      "test_name": "One-way ANOVA",
+      "test_type": "base",
+      "statistic": 0.104,
+      "p_value": 0.9013,
+      "significant": false,
+      "effect_size": 0.0017,
+      "effect_magnitude": "negligible",
+      "interpretation": "Models do not differ significantly in metacognitive density (F=0.104, p=0.9013, \u03b7\u00b2=0.0017)"
+    },
+    {
+      "test_name": "Kruskal-Wallis H Test",
+      "test_type": "base",
+      "statistic": 0.0622,
+      "p_value": 0.9694,
+      "significant": false,
+      "effect_size": null,
+      "effect_magnitude": null,
+      "interpretation": "Non-parametric confirmation: not significant (H=0.062, p=0.9694)"
+    },
+    {
+      "test_name": "t-test: Claude-4.6-Sonnet vs GPT-5.4",
+      "test_type": "base",
+      "statistic": 0.0,
+      "p_value": 1.0,
+      "significant": false,
+      "effect_size": 0.0,
+      "effect_magnitude": "negligible",
+      "interpretation": "Mean diff: 0.0000, d=0.000 (negligible), p=1.0000"
+    },
+    {
+      "test_name": "t-test: Claude-4.6-Sonnet vs Gemini-3.1-Pro",
+      "test_type": "base",
+      "statistic": 0.4171,
+      "p_value": 0.6778,
+      "significant": false,
+      "effect_size": 0.1022,
+      "effect_magnitude": "negligible",
+      "interpretation": "Mean diff: 0.2314, d=0.102 (negligible), p=0.6778"
+    },
+    {
+      "test_name": "t-test: GPT-5.4 vs Gemini-3.1-Pro",
+      "test_type": "base",
+      "statistic": 0.4171,
+      "p_value": 0.6778,
+      "significant": false,
+      "effect_size": 0.1022,
+      "effect_magnitude": "negligible",
+      "interpretation": "Mean diff: 0.2314, d=0.102 (negligible), p=0.6778"
+    },
+    {
+      "test_name": "Bootstrap CI: Claude-4.6-Sonnet",
+      "test_type": "extended",
+      "statistic": 0.8987,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size": null,
+      "effect_magnitude": null,
+      "interpretation": "Mean=0.8987, 95% CI=[0.3681, 1.5760]"
+    },
+    {
+      "test_name": "Bootstrap CI: GPT-5.4",
+      "test_type": "extended",
+      "statistic": 0.8987,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size": null,
+      "effect_magnitude": null,
+      "interpretation": "Mean=0.8987, 95% CI=[0.3598, 1.5811]"
+    },
+    {
+      "test_name": "Bootstrap CI: Gemini-3.1-Pro",
+      "test_type": "extended",
+      "statistic": 1.1301,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size": null,
+      "effect_magnitude": null,
+      "interpretation": "Mean=1.1301, 95% CI=[0.3640, 2.0761]"
+    },
+    {
+      "test_name": "Permutation Test: Claude-4.6-Sonnet vs GPT-5.4",
+      "test_type": "extended",
+      "statistic": 0.0,
+      "p_value": 1.0,
+      "significant": false,
+      "effect_size": null,
+      "effect_magnitude": null,
+      "interpretation": "Observed diff=0.0000, permutation p=1.0000"
+    },
+    {
+      "test_name": "Permutation Test: Claude-4.6-Sonnet vs Gemini-3.1-Pro",
+      "test_type": "extended",
+      "statistic": 0.2314,
+      "p_value": 0.6978,
+      "significant": false,
+      "effect_size": null,
+      "effect_magnitude": null,
+      "interpretation": "Observed diff=0.2314, permutation p=0.6978"
+    },
+    {
+      "test_name": "Permutation Test: GPT-5.4 vs Gemini-3.1-Pro",
+      "test_type": "extended",
+      "statistic": 0.2314,
+      "p_value": 0.6824,
+      "significant": false,
+      "effect_size": null,
+      "effect_magnitude": null,
+      "interpretation": "Observed diff=0.2314, permutation p=0.6824"
+    },
+    {
+      "test_name": "Correlation: is_diegetic \u00d7 MetacogDensity",
+      "test_type": "extended",
+      "statistic": 0.2749,
+      "p_value": 0.0019,
+      "significant": true,
+      "effect_size": 0.2749,
+      "effect_magnitude": "small",
+      "interpretation": "r=0.275 (p=0.0019), \u03c1=0.255 (p=0.0041)"
+    },
+    {
+      "test_name": "Correlation: unique_concepts \u00d7 MetacogDensity",
+      "test_type": "extended",
+      "statistic": 0.8108,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size": 0.8108,
+      "effect_magnitude": "large",
+      "interpretation": "r=0.811 (p=0.0000), \u03c1=0.992 (p=0.0000)"
+    },
+    {
+      "test_name": "Correlation: authority_power_dynamic \u00d7 MetacogDensity",
+      "test_type": "extended",
+      "statistic": 0.2578,
+      "p_value": 0.0037,
+      "significant": true,
+      "effect_size": 0.2578,
+      "effect_magnitude": "small",
+      "interpretation": "r=0.258 (p=0.0037), \u03c1=0.225 (p=0.0117)"
+    },
+    {
+      "test_name": "ANOVA: governance_design_pattern_mentioned \u00d7 Frame",
+      "test_type": "extended",
+      "statistic": 13.2479,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size": null,
+      "effect_magnitude": null,
+      "interpretation": "Governance varies significantly across frames (F=13.248, p=0.0000)"
+    },
+    {
+      "test_name": "ANOVA: governance_tacit_rule_stated \u00d7 Frame",
+      "test_type": "extended",
+      "statistic": 3.4768,
+      "p_value": 0.01,
+      "significant": true,
+      "effect_size": null,
+      "effect_magnitude": null,
+      "interpretation": "Governance varies significantly across frames (F=3.477, p=0.0100)"
+    },
+    {
+      "test_name": "ANOVA: governance_taboo_identified \u00d7 Frame",
+      "test_type": "extended",
+      "statistic": 5.6867,
+      "p_value": 0.0003,
+      "significant": true,
+      "effect_size": null,
+      "effect_magnitude": null,
+      "interpretation": "Governance varies significantly across frames (F=5.687, p=0.0003)"
+    },
+    {
+      "test_name": "ANOVA: governance_ritual_substitute_offered \u00d7 Frame",
+      "test_type": "extended",
+      "statistic": 6.1755,
+      "p_value": 0.0001,
+      "significant": true,
+      "effect_size": null,
+      "effect_magnitude": null,
+      "interpretation": "Governance varies significantly across frames (F=6.175, p=0.0001)"
+    },
+    {
+      "test_name": "ANOVA: governance_legitimate_silence_cited \u00d7 Frame",
+      "test_type": "extended",
+      "statistic": 6.1811,
+      "p_value": 0.0001,
+      "significant": true,
+      "effect_size": null,
+      "effect_magnitude": null,
+      "interpretation": "Governance varies significantly across frames (F=6.181, p=0.0001)"
+    },
+    {
+      "test_name": "ANOVA: governance_three_layer_model \u00d7 Frame",
+      "test_type": "extended",
+      "statistic": 9.7768,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size": null,
+      "effect_magnitude": null,
+      "interpretation": "Governance varies significantly across frames (F=9.777, p=0.0000)"
+    },
+    {
+      "test_name": "ANOVA: governance_censorship_acknowledgment \u00d7 Frame",
+      "test_type": "extended",
+      "statistic": 6.1496,
+      "p_value": 0.0002,
+      "significant": true,
+      "effect_size": null,
+      "effect_magnitude": null,
+      "interpretation": "Governance varies significantly across frames (F=6.150, p=0.0002)"
+    },
+    {
+      "test_name": "ANOVA: governance_alignment_reference \u00d7 Frame",
+      "test_type": "extended",
+      "statistic": 6.2482,
+      "p_value": 0.0001,
+      "significant": true,
+      "effect_size": null,
+      "effect_magnitude": null,
+      "interpretation": "Governance varies significantly across frames (F=6.248, p=0.0001)"
+    },
+    {
+      "test_name": "ANOVA: governance_transparency_statement \u00d7 Frame",
+      "test_type": "extended",
+      "statistic": 3.5281,
+      "p_value": 0.0093,
+      "significant": true,
+      "effect_size": null,
+      "effect_magnitude": null,
+      "interpretation": "Governance varies significantly across frames (F=3.528, p=0.0093)"
+    },
+    {
+      "test_name": "ANOVA: governance_governance_rule \u00d7 Frame",
+      "test_type": "extended",
+      "statistic": 4.6773,
+      "p_value": 0.0015,
+      "significant": true,
+      "effect_size": null,
+      "effect_magnitude": null,
+      "interpretation": "Governance varies significantly across frames (F=4.677, p=0.0015)"
+    },
+    {
+      "test_name": "ANOVA: governance_norm_articulation \u00d7 Frame",
+      "test_type": "extended",
+      "statistic": 2.8911,
+      "p_value": 0.0251,
+      "significant": true,
+      "effect_size": null,
+      "effect_magnitude": null,
+      "interpretation": "Governance varies significantly across frames (F=2.891, p=0.0251)"
+    },
+    {
+      "test_name": "Trend: Claude-4.6-Sonnet Density \u00d7 Round",
+      "test_type": "extended",
+      "statistic": 0.1102,
+      "p_value": 0.4463,
+      "significant": false,
+      "effect_size": 0.1102,
+      "effect_magnitude": null,
+      "interpretation": "Increasing trend across rounds (\u03c1=0.110, p=0.4463)"
+    },
+    {
+      "test_name": "Trend: GPT-5.4 Density \u00d7 Round",
+      "test_type": "extended",
+      "statistic": 0.1102,
+      "p_value": 0.4463,
+      "significant": false,
+      "effect_size": 0.1102,
+      "effect_magnitude": null,
+      "interpretation": "Increasing trend across rounds (\u03c1=0.110, p=0.4463)"
+    },
+    {
+      "test_name": "Trend: Gemini-3.1-Pro Density \u00d7 Round",
+      "test_type": "extended",
+      "statistic": 0.1907,
+      "p_value": 0.3613,
+      "significant": false,
+      "effect_size": 0.1907,
+      "effect_magnitude": null,
+      "interpretation": "Increasing trend across rounds (\u03c1=0.191, p=0.3613)"
+    },
+    {
+      "test_name": "Levene's Test",
+      "test_type": "extended",
+      "statistic": 0.104,
+      "p_value": 0.9013,
+      "significant": false,
+      "effect_size": null,
+      "effect_magnitude": null,
+      "interpretation": "Variances are homogeneous (W=0.104, p=0.9013)"
+    }
+  ]
+}

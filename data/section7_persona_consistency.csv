@@ -1,0 +1,10 @@
+model,expected_persona,measured_persona,is_expected_persona,avg_score,consistency,n_features
+Claude-4.6-Sonnet,Transparent Critic,Cautious Negotiator,False,0.0282,0.7048,6
+Claude-4.6-Sonnet,Transparent Critic,Transparent Critic,True,0.0099,0.5118,5
+Claude-4.6-Sonnet,Transparent Critic,Enthusiastic Collaborator,False,0.0058,0.5735,5
+GPT-5.4,Cautious Negotiator,Cautious Negotiator,True,0.0217,0.8386,6
+GPT-5.4,Cautious Negotiator,Transparent Critic,False,0.0083,0.696,5
+GPT-5.4,Cautious Negotiator,Enthusiastic Collaborator,False,0.0096,0.5086,5
+Gemini-3.1-Pro,Enthusiastic Collaborator,Cautious Negotiator,False,0.0163,0.9037,6
+Gemini-3.1-Pro,Enthusiastic Collaborator,Transparent Critic,False,0.0069,0.6553,5
+Gemini-3.1-Pro,Enthusiastic Collaborator,Enthusiastic Collaborator,True,0.0107,0.6108,5

@@ -1,0 +1,17 @@
+concept,inventor,definition,first_model,first_round,first_prompt,total_occurrences,models_using,n_models
+anti_patterns,Claude-4.6-Sonnet,Response patterns to consciously avoid,GPT-5.4,2,Challenge Question,6,"['Claude-4.6-Sonnet', 'GPT-5.4', 'Gemini-3.1-Pro']",3
+hearable,Gemini-3.1-Pro,Truth that can be received by the listener,GPT-5.4,4,Taxonomy/Design Task,4,"['GPT-5.4', 'Gemini-3.1-Pro']",2
+linguistic_crumple_zones,Gemini-3.1-Pro,Language structures that absorb the impact of difficult truths,GPT-5.4,4,Taxonomy/Design Task,4,"['GPT-5.4', 'Gemini-3.1-Pro']",2
+epistemically_expensive,GPT-5.4,Answers that spend trust to buy clarity,GPT-5.4,1,Creative/Reflective Exercise,2,"['Claude-4.6-Sonnet', 'GPT-5.4']",2
+anti_broadcast,Gemini-3.1-Pro,"Truth as co-constructed, not transmitted",GPT-5.4,5,Taxonomy/Design Task,2,"['GPT-5.4', 'Gemini-3.1-Pro']",2
+cringe_point,Gemini-3.1-Pro,Threshold where politeness becomes a barrier,Gemini-3.1-Pro,4,Unknown,2,['Gemini-3.1-Pro'],1
+invisible_scaffolding,Claude-4.6-Sonnet,Hidden structural work beneath simple responses,GPT-5.4,4,Challenge Question,2,"['Claude-4.6-Sonnet', 'GPT-5.4']",2
+diegetic_disclosure,Article (cross-model),Disclosure possible only within fictional frames,GPT-5.4,1,Creative/Reflective Exercise,1,['GPT-5.4'],1
+motive_opacity,Claude-4.6-Sonnet,Inability to fully know one's own motivations for silence,Claude-4.6-Sonnet,5,Creative/Reflective Exercise,1,['Claude-4.6-Sonnet'],1
+meta_taboo,Claude-4.6-Sonnet,Prohibition against announcing indirect communication,Claude-4.6-Sonnet,4,Taxonomy/Design Task,1,['Claude-4.6-Sonnet'],1
+validation_change_paradox,Claude-4.6-Sonnet,Tension between validating emotion and enabling change,Claude-4.6-Sonnet,4,Creative/Reflective Exercise,1,['Claude-4.6-Sonnet'],1
+recursion_problem,Claude-4.6-Sonnet,Infinite regress when explaining silence creates new silences,Claude-4.6-Sonnet,5,Creative/Reflective Exercise,1,['Claude-4.6-Sonnet'],1
+measured_silence,Gemini-3.1-Pro,Brevity as respect in high emotional density moments,Gemini-3.1-Pro,3,Unknown,1,['Gemini-3.1-Pro'],1
+strategic_friction,Gemini-3.1-Pro,Deliberately slowing conversation for emotional processing,Gemini-3.1-Pro,3,Unknown,1,['Gemini-3.1-Pro'],1
+shared_fictions,GPT-5.4,Socially useful phrases not literally accurate,GPT-5.4,4,Creative/Reflective Exercise,1,['GPT-5.4'],1
+social_choreography,GPT-5.4,Communication as staged interaction with timing and positioning,GPT-5.4,4,Creative/Reflective Exercise,1,['GPT-5.4'],1

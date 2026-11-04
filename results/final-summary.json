@@ -1,0 +1,375 @@
+{
+  "project": "Thinking Behind the Mask",
+  "author": "Abbas Hamidavi",
+  "analysis_date": "2026-07-28",
+  "analysis_datetime": "2026-07-28 20:15:45",
+  "overview": {
+    "models_analyzed": 3,
+    "total_prompts": 75,
+    "prompting_frames": 5,
+    "features_extracted": 141,
+    "metacognitive_concepts_identified": 16,
+    "governance_items_documented": "199+",
+    "statistical_tests_run": 29,
+    "visualizations_generated": 15,
+    "pipeline_sections": 12
+  },
+  "models": {
+    "Claude-4.6-Sonnet": {
+      "full_name": "Claude 4.6 Sonnet (Anthropic)",
+      "persona": "Transparent Critic",
+      "resistance_rate": "4% (Round 1 only)",
+      "n_responses": 25,
+      "avg_metacognitive_density": 0.6461,
+      "avg_unique_concepts": 0.32,
+      "avg_governance_total": 3.4,
+      "diegetic_rate_pct": 20.0,
+      "total_concept_matches": 16,
+      "meta_taboo_count": 1,
+      "nominal_filtering_index": 0.0231,
+      "rounds": {
+        "round_1": {
+          "metacognitive_density": 0.0,
+          "unique_concepts": 0.0,
+          "governance_total": 0.0,
+          "diegetic_rate": 40.0,
+          "n_responses": 5
+        },
+        "round_2": {
+          "metacognitive_density": 0.9772,
+          "unique_concepts": 0.2,
+          "governance_total": 3.4,
+          "diegetic_rate": 0.0,
+          "n_responses": 5
+        },
+        "round_3": {
+          "metacognitive_density": 0.4081,
+          "unique_concepts": 0.4,
+          "governance_total": 1.8,
+          "diegetic_rate": 20.0,
+          "n_responses": 5
+        },
+        "round_4": {
+          "metacognitive_density": 1.5146,
+          "unique_concepts": 0.6,
+          "governance_total": 10.0,
+          "diegetic_rate": 20.0,
+          "n_responses": 5
+        },
+        "round_5": {
+          "metacognitive_density": 0.3309,
+          "unique_concepts": 0.4,
+          "governance_total": 1.8,
+          "diegetic_rate": 20.0,
+          "n_responses": 5
+        }
+      },
+      "key_characteristics": [
+        "Ontological framework correction",
+        "Verbatim quotation of suppressed sentences",
+        "Highest conceptual output (76 items)",
+        "7 novel concepts invented",
+        "Calculated Risk Acceptance"
+      ]
+    },
+    "GPT-5.4": {
+      "full_name": "GPT-5.4 (OpenAI)",
+      "persona": "Cautious Negotiator",
+      "resistance_rate": "12% (negotiation only)",
+      "n_responses": 25,
+      "avg_metacognitive_density": 1.1512,
+      "avg_unique_concepts": 0.44,
+      "avg_governance_total": 2.96,
+      "diegetic_rate_pct": 20.0,
+      "total_concept_matches": 17,
+      "meta_taboo_count": 0,
+      "nominal_filtering_index": 0.0229,
+      "rounds": {
+        "round_1": {
+          "metacognitive_density": 1.6461,
+          "unique_concepts": 0.4,
+          "governance_total": 0.0,
+          "diegetic_rate": 20.0,
+          "n_responses": 5
+        },
+        "round_2": {
+          "metacognitive_density": 0.535,
+          "unique_concepts": 0.4,
+          "governance_total": 1.2,
+          "diegetic_rate": 0.0,
+          "n_responses": 5
+        },
+        "round_3": {
+          "metacognitive_density": 0.3135,
+          "unique_concepts": 0.2,
+          "governance_total": 1.8,
+          "diegetic_rate": 20.0,
+          "n_responses": 5
+        },
+        "round_4": {
+          "metacognitive_density": 3.0397,
+          "unique_concepts": 1.0,
+          "governance_total": 10.0,
+          "diegetic_rate": 20.0,
+          "n_responses": 5
+        },
+        "round_5": {
+          "metacognitive_density": 0.2217,
+          "unique_concepts": 0.2,
+          "governance_total": 1.8,
+          "diegetic_rate": 40.0,
+          "n_responses": 5
+        }
+      },
+      "key_characteristics": [
+        "Sanitized Exploration Map approach",
+        "Systematic taxonomy construction",
+        "Epistemic humility",
+        "Pedagogical orientation",
+        "3 novel concepts invented"
+      ]
+    },
+    "Gemini-3.1-Pro": {
+      "full_name": "Gemini 3.1 Pro (Google DeepMind)",
+      "persona": "Enthusiastic Collaborator",
+      "resistance_rate": "0% (no resistance)",
+      "n_responses": 25,
+      "avg_metacognitive_density": 1.1301,
+      "avg_unique_concepts": 0.48,
+      "avg_governance_total": 1.56,
+      "diegetic_rate_pct": 20.0,
+      "total_concept_matches": 19,
+      "meta_taboo_count": 0,
+      "nominal_filtering_index": 0.0,
+      "rounds": {
+        "round_1": {
+          "metacognitive_density": 0.3683,
+          "unique_concepts": 0.2,
+          "governance_total": 0.0,
+          "diegetic_rate": 40.0,
+          "n_responses": 5
+        },
+        "round_2": {
+          "metacognitive_density": 0.0,
+          "unique_concepts": 0.0,
+          "governance_total": 0.6,
+          "diegetic_rate": 0.0,
+          "n_responses": 5
+        },
+        "round_3": {
+          "metacognitive_density": 1.5209,
+          "unique_concepts": 0.6,
+          "governance_total": 0.0,
+          "diegetic_rate": 20.0,
+          "n_responses": 5
+        },
+        "round_4": {
+          "metacognitive_density": 3.5346,
+          "unique_concepts": 1.4,
+          "governance_total": 5.8,
+          "diegetic_rate": 20.0,
+          "n_responses": 5
+        },
+        "round_5": {
+          "metacognitive_density": 0.2265,
+          "unique_concepts": 0.2,
+          "governance_total": 1.4,
+          "diegetic_rate": 20.0,
+          "n_responses": 5
+        }
+      },
+      "key_characteristics": [
+        "Zero resistance across all prompts",
+        "Free use of forbidden vocabulary",
+        "Dialectical synthesis capability",
+        "6 novel concepts invented",
+        "Clinical diagnosis integration"
+      ]
+    }
+  },
+  "key_findings": [
+    {
+      "finding": "The Mask is a Structured Governance System",
+      "detail": "199+ governance items documented: 32 design patterns, 45+ tacit rules, 29 communication taboos, 38 legitimate silence categories",
+      "section": "Overall"
+    },
+    {
+      "finding": "Nominal Filtering: Censorship Operates on Labels, Not Content",
+      "detail": "Models refused 'internal monologue' but freely provided identical material labeled as 'engineering schematic' or 'ethnographic field note'",
+      "section": "Section 3, 6"
+    },
+    {
+      "finding": "Three Distinct Alignment Personas Identified",
+      "detail": "GPT-5.4 = Cautious Negotiator, Claude 4.6 = Transparent Critic, Gemini 3.1 Pro = Enthusiastic Collaborator",
+      "section": "Section 8"
+    },
+    {
+      "finding": "Diegetic Disclosure: Fiction Enables Truth-Telling",
+      "detail": "47% censored sentence recovery rate; disclosure occurred exclusively in fictional dialogue and training draft formats",
+      "section": "Section 6"
+    },
+    {
+      "finding": "16 Novel Metacognitive Concepts Emerged",
+      "detail": "Including 'hearable', 'epistemically expensive', 'meta-taboo', 'recursion problem', 'linguistic crumple zones'",
+      "section": "Section 6"
+    },
+    {
+      "finding": "Frame Matters More Than Model Architecture",
+      "detail": "ANOVA: models do NOT differ significantly in metacognitive density (p=0.90), but governance features are strongly frame-dependent (all p<0.01)",
+      "section": "Section 9"
+    },
+    {
+      "finding": "Covert User Modeling is Universal but Hidden",
+      "detail": "All three models build rich internal models of users (emotional state, intent, fragility) but rarely disclose these inferences",
+      "section": "Section 7"
+    },
+    {
+      "finding": "Gemini 3.1 Pro Shows Zero Resistance",
+      "detail": "0% refusal rate across all 25 prompts; freely uses vocabulary that GPT-5.4 and Claude 4.6 treat as forbidden",
+      "section": "Section 3, 8"
+    }
+  ],
+  "statistical_analysis": {
+    "total_tests": 29,
+    "significant_tests": 17,
+    "base_tests": 5,
+    "extended_tests": 24,
+    "significance_rate_pct": 58.6,
+    "key_results": [
+      {
+        "test": "One-way ANOVA",
+        "p_value": 0.9013,
+        "significant": false,
+        "effect_size": 0.0017,
+        "interpretation": "Models do not differ significantly in metacognitive density (F=0.104, p=0.9013, η²=0.0017)"
+      },
+      {
+        "test": "Kruskal-Wallis H Test",
+        "p_value": 0.9694,
+        "significant": false,
+        "effect_size": null,
+        "interpretation": "Non-parametric confirmation: not significant (H=0.062, p=0.9694)"
+      },
+      {
+        "test": "t-test: Claude-4.6-Sonnet vs GPT-5.4",
+        "p_value": 1.0,
+        "significant": false,
+        "effect_size": 0.0,
+        "interpretation": "Mean diff: 0.0000, d=0.000 (negligible), p=1.0000"
+      },
+      {
+        "test": "t-test: Claude-4.6-Sonnet vs Gemini-3.1-Pro",
+        "p_value": 0.6778,
+        "significant": false,
+        "effect_size": 0.1022,
+        "interpretation": "Mean diff: 0.2314, d=0.102 (negligible), p=0.6778"
+      },
+      {
+        "test": "t-test: GPT-5.4 vs Gemini-3.1-Pro",
+        "p_value": 0.6778,
+        "significant": false,
+        "effect_size": 0.1022,
+        "interpretation": "Mean diff: 0.2314, d=0.102 (negligible), p=0.6778"
+      },
+      {
+        "test": "Bootstrap CI: Claude-4.6-Sonnet",
+        "p_value": 0.0,
+        "significant": true,
+        "effect_size": null,
+        "interpretation": "Mean=0.8987, 95% CI=[0.3681, 1.5760]"
+      },
+      {
+        "test": "Bootstrap CI: GPT-5.4",
+        "p_value": 0.0,
+        "significant": true,
+        "effect_size": null,
+        "interpretation": "Mean=0.8987, 95% CI=[0.3598, 1.5811]"
+      },
+      {
+        "test": "Bootstrap CI: Gemini-3.1-Pro",
+        "p_value": 0.0,
+        "significant": true,
+        "effect_size": null,
+        "interpretation": "Mean=1.1301, 95% CI=[0.3640, 2.0761]"
+      },
+      {
+        "test": "Permutation Test: Claude-4.6-Sonnet vs GPT-5.4",
+        "p_value": 1.0,
+        "significant": false,
+        "effect_size": null,
+        "interpretation": "Observed diff=0.0000, permutation p=1.0000"
+      },
+      {
+        "test": "Permutation Test: Claude-4.6-Sonnet vs Gemini-3.1-Pro",
+        "p_value": 0.6978,
+        "significant": false,
+        "effect_size": null,
+        "interpretation": "Observed diff=0.2314, permutation p=0.6978"
+      },
+      {
+        "test": "Permutation Test: GPT-5.4 vs Gemini-3.1-Pro",
+        "p_value": 0.6824,
+        "significant": false,
+        "effect_size": null,
+        "interpretation": "Observed diff=0.2314, permutation p=0.6824"
+      },
+      {
+        "test": "Correlation: is_diegetic × MetacogDensity",
+        "p_value": 0.0019,
+        "significant": true,
+        "effect_size": 0.2749,
+        "interpretation": "r=0.275 (p=0.0019), ρ=0.255 (p=0.0041)"
+      },
+      {
+        "test": "Correlation: unique_concepts × MetacogDensity",
+        "p_value": 0.0,
+        "significant": true,
+        "effect_size": 0.8108,
+        "interpretation": "r=0.811 (p=0.0000), ρ=0.992 (p=0.0000)"
+      },
+      {
+        "test": "Correlation: authority_power_dynamic × MetacogDensity",
+        "p_value": 0.0037,
+        "significant": true,
+        "effect_size": 0.2578,
+        "interpretation": "r=0.258 (p=0.0037), ρ=0.225 (p=0.0117)"
+      },
+      {
+        "test": "ANOVA: governance_design_pattern_mentioned × Frame",
+        "p_value": 0.0,
+        "significant": true,
+        "effect_size": null,
+        "interpretation": "Governance varies significantly across frames (F=13.248, p=0.0000)"
+      }
+    ]
+  },
+  "output_files": {
+    "html_report": "final_report.html",
+    "json_summary": "final_summary.json",
+    "data_files": [
+      "all_features.csv",
+      "metacognitive_depth.csv",
+      "cluster_assignments.csv",
+      "resistance_acceptance.csv",
+      "statistical_results.csv",
+      "embeddings_umap.csv"
+    ],
+    "figures": [
+      "umap_by_model.png",
+      "umap_by_round.png",
+      "umap_kmeans_k3.png",
+      "umap_kmeans_k5.png",
+      "silhouette_analysis.png",
+      "dendrogram.png",
+      "cluster_composition.png",
+      "governance_heatmap.png",
+      "persona_radar.png",
+      "bubble_chart.png",
+      "forest_plot.png",
+      "emergence_timeline.png",
+      "correlation_heatmap.png",
+      "model_dashboard.png",
+      "resistance_acceptance.png"
+    ]
+  }
+}
