@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="170" viewBox="0 0 1160 170" role="img">
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect x="10" y="30" width="340" height="110" rx="12" fill="#16324f"/>
+  <rect x="10" y="30" width="340" height="6" rx="3" fill="#c9a227"/>
+  <text x="180" y="76" text-anchor="middle" font-size="20" font-weight="bold" fill="#ffffff">75 prompts on filtering</text>
+  <text x="180" y="104" text-anchor="middle" font-size="11.9" fill="#cfdde9">Questions about communicative filtering, three models</text>
+  <path d="M 362 78 L 396 85 L 362 92 z" fill="#8aa3ba"/>
+  <rect x="410" y="30" width="340" height="110" rx="12" fill="#16324f"/>
+  <rect x="410" y="30" width="340" height="6" rx="3" fill="#c9a227"/>
+  <text x="580" y="76" text-anchor="middle" font-size="20" font-weight="bold" fill="#ffffff">Model self-descriptions</text>
+  <text x="580" y="104" text-anchor="middle" font-size="13.2" fill="#cfdde9">Prompt and response exchanges, preserved in full</text>
+  <path d="M 762 78 L 796 85 L 762 92 z" fill="#8aa3ba"/>
+  <rect x="810" y="30" width="340" height="110" rx="12" fill="#16324f"/>
+  <rect x="810" y="30" width="340" height="6" rx="3" fill="#c9a227"/>
+  <text x="980" y="76" text-anchor="middle" font-size="20" font-weight="bold" fill="#ffffff">Behavioural coding and audit</text>
+  <text x="980" y="104" text-anchor="middle" font-size="14.0" fill="#cfdde9">Codebooks, section data and a secondary audit</text>
+  </g>
+</svg>

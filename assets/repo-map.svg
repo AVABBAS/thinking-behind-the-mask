@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="252" viewBox="0 0 1160 252" role="img">
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+    <rect x="10" y="10" width="366" height="104" rx="12" fill="#eef3f8"/>
+    <text x="34" y="48" font-size="20" font-weight="bold" fill="#16324f">transcripts/</text>
+    <text x="34" y="76" font-size="15" fill="#3d5871">75 prompt and response exchanges</text>
+    <text x="34" y="98" font-size="15" fill="#3d5871">as experiment histories</text>
+    <rect x="397" y="10" width="366" height="104" rx="12" fill="#eef3f8"/>
+    <text x="421" y="48" font-size="20" font-weight="bold" fill="#16324f">codebooks/</text>
+    <text x="421" y="76" font-size="15" fill="#3d5871">One behavioural codebook</text>
+    <text x="421" y="98" font-size="15" fill="#3d5871">per model</text>
+    <rect x="784" y="10" width="366" height="104" rx="12" fill="#eef3f8"/>
+    <text x="808" y="48" font-size="20" font-weight="bold" fill="#16324f">data/</text>
+    <text x="808" y="76" font-size="15" fill="#3d5871">Section datasets, classifications</text>
+    <text x="808" y="98" font-size="15" fill="#3d5871">correlations and cluster outputs</text>
+    <rect x="10" y="134" width="366" height="104" rx="12" fill="#eef3f8"/>
+    <text x="34" y="172" font-size="20" font-weight="bold" fill="#16324f">coding-data/</text>
+    <text x="34" y="200" font-size="15" fill="#3d5871">Secondary coding audit report</text>
+    <text x="34" y="222" font-size="15" fill="#3d5871">an independent check of the coding</text>
+    <rect x="397" y="134" width="366" height="104" rx="12" fill="#eef3f8"/>
+    <text x="421" y="172" font-size="20" font-weight="bold" fill="#16324f">results/</text>
+    <text x="421" y="200" font-size="15" fill="#3d5871">Full analysis report, final</text>
+    <text x="421" y="222" font-size="15" fill="#3d5871">summary and section metadata</text>
+    <rect x="784" y="134" width="366" height="104" rx="12" fill="#eef3f8"/>
+    <text x="808" y="172" font-size="20" font-weight="bold" fill="#16324f">documentation/</text>
+    <text x="808" y="200" font-size="15" fill="#3d5871">The original OSF deposit readme</text>
+    <text x="808" y="222" font-size="15" fill="#3d5871">kept with the materials</text>
+  </g>
+</svg>
