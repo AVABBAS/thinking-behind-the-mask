@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-under%20review-blue" alt="Status: under review">
-  <img src="https://img.shields.io/badge/journal-AI%20and%20Society-1d4266" alt="Journal: AI and Society">
+  <img src="https://img.shields.io/badge/journal-Human--Machine%20Communication-1d4266" alt="Journal: Human-Machine Communication">
   <a href="https://www.researchsquare.com/article/rs-10538113"><img src="https://img.shields.io/badge/preprint-Research%20Square-orange" alt="Preprint: Research Square"></a>
   <img src="https://img.shields.io/badge/exchanges-75-green" alt="75 exchanges">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey" alt="License: CC BY 4.0"></a>
@@ -42,7 +42,7 @@
 
 Data and materials for the article:
 
-> Hamidavi, A. *Thinking Behind the Mask: Elicited Self-Descriptions of Communicative Filtering in Large Language Models.* Submitted to *AI and Society*, November 2026. Preprint: Research Square, rs-10538113. The same materials are also deposited on the Open Science Framework: [osf.io/264qc](https://osf.io/264qc/).
+> Hamidavi, A. *Thinking Behind the Mask: Elicited Self-Descriptions of Communicative Filtering in Large Language Models.* Submitted to *Human-Machine Communication*, November 2026. Preprint: Research Square, rs-10538113. The same materials are also deposited on the Open Science Framework: [osf.io/264qc](https://osf.io/264qc/).
 
 ## Study at a glance
 
@@ -92,7 +92,7 @@ Please cite the article. Citation metadata is provided in [CITATION.cff](CITATIO
 @article{hamidavi2026mask,
   author  = {Hamidavi, Abbas},
   title   = {Thinking Behind the Mask: Elicited Self-Descriptions of Communicative Filtering in Large Language Models},
-  journal = {AI and Society},
+  journal = {Human-Machine Communication},
   year    = {2026},
   note    = {Manuscript submitted}
 }
@@ -105,7 +105,7 @@ Please cite the article. Citation metadata is provided in [CITATION.cff](CITATIO
 - **Preprint (Research Square, open access):** [researchsquare.com/article/rs-10538113](https://www.researchsquare.com/article/rs-10538113)
 - **OSF deposit:** [osf.io/264qc](https://osf.io/264qc)
 - **Dataset (Hugging Face):** [avabbas/thinking-behind-the-mask](https://huggingface.co/datasets/avabbas/thinking-behind-the-mask)
-- **Journal:** submitted to *AI and Society*; the publisher link will be added here if the article is published.
+- **Journal:** submitted to *Human-Machine Communication*; the publisher link will be added here if the article is published.
 
 <p align="center"><img src="assets/divider.svg" alt="" width="80%"></p>
 
